@@ -7,9 +7,9 @@
 ## My Profile:
 ![Image profile](https://prntscr.com/10mv165)
 
-__Name__ : Nguyen Si Trong
-__Specialization__ : Software Engineering
-__University__ : FPT University
+__Name__ : Nguyen Si Trong  
+__Specialization__ : Software Engineering  
+__University__ : FPT University  
 
 
 
