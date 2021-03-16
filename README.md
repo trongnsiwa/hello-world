@@ -5,11 +5,11 @@
 [Facebook](https://www.facebook.com/trongiwa79/)
 
 ## My Profile:
-<img src="https://prntscr.com/10mv165">
+![Image profile](https://prntscr.com/10mv165)
 
-** Name: ** Nguyen Si Trong
-** Specialization: ** Software Engineering
-** University: ** FPT University
+__Name__ : Nguyen Si Trong
+__Specialization__ : Software Engineering
+__University__ : FPT University
 
 
 
