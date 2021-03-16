@@ -5,7 +5,7 @@
 [Facebook](https://www.facebook.com/trongiwa79/)
 
 ## My Profile:
-![Image profile](https://prntscr.com/10mv165)
+![Image profile](https://photos.google.com/u/1/photo/AF1QipNA4PWPe-7NYqmvwLLQBfipmnd0VWuzhImyQYSz)
 
 __Name__ : Nguyen Si Trong  
 __Specialization__ : Software Engineering  
